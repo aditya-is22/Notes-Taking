@@ -22,7 +22,7 @@ Before running this application, make sure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Notes-NodeJs-CRUD-MongoDB.git
+git clone https://github.com/aditya-is22/Notes-NodeJs-CRUD-MongoDB.git
 cd Notes-NodeJs-CRUD-MongoDB
 ```
 
